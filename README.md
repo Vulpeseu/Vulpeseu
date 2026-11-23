@@ -29,6 +29,7 @@ A live, production-ready **SaaS** platform designed for professional coaches and
 ### 📌 Other Projects
 
 * 📊 **[Currency Tracker](https://github.com/Vulpeseu/currency-tracker)** — Real-time currency dashboard fetching financial data via REST API with a Flask backend and dynamic JS UI.
+* https://vulpeseu.github.io/jdm-track-hub/
 
 ---
 
